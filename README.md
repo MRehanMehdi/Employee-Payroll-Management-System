@@ -21,9 +21,12 @@ Java • IntelliJ IDEA • GitHub
 ## How to Run
 1. Clone the repo  
 2. Open in IntelliJ IDEA  
-3. Run `PayrollSystem.java`  
+3. Run `PayrollSystem.java`
 
 ## Author
 **Muhammad Rehan Mehdi**  
+**Assignment No. 02**
+**Course: Advanced Computer Programming**
 Riphah International University, Islamabad Campus  
+
 
