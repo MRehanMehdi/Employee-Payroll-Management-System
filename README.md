@@ -25,8 +25,12 @@ Java • IntelliJ IDEA • GitHub
 
 ## Author
 **Muhammad Rehan Mehdi**  
+
 **Assignment No. 02**
+
 **Course: Advanced Computer Programming**
+
 Riphah International University, Islamabad Campus  
+
 
 
